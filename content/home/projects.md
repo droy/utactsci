@@ -3,11 +3,11 @@
 widget = "projects"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Projects"
+title = "People"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 4
 
 # Content.
 # Display content from the following folder.
@@ -39,11 +39,11 @@ filter_default = 0
 # [[filter]]
 #   name = "All"
 #   tag = "*"
-#
+
 # [[filter]]
 #   name = "Deep Learning"
 #   tag = "Deep Learning"
-#
+
 # [[filter]]
 #   name = "Other"
 #   tag = "Demo"
