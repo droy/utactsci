@@ -1,3 +1,9 @@
+# Actuarial Sciences
+
+This github repository determines the actuarial sciences website. The following displays the status of the netlify server, which hosts the website.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e32ef1db-fdf9-4413-8e44-d543ac669a0f/deploy-status)](https://app.netlify.com/sites/distracted-golick-93da52/deploys)
+
 # Academic Kickstart
 
 **Academic** is a framework to help you create a beautiful website quickly. Perfect for personal, student, or academic websites. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes or [view the documentation](https://sourcethemes.com/academic/docs/).
